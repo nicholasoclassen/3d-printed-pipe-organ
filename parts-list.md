@@ -1,3 +1,4 @@
 Parts list: (very very not up to date.)
 
-26x MG90S Micro Servo
+26x SG-90 Micro Servo
+10x Adafruit mini push-pull solenoid
