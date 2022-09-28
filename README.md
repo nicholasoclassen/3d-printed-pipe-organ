@@ -10,3 +10,5 @@ I plan on adding files with all of the parametric models when I have them comple
 Required libraries: 
 Arduino Midi Library by FortySevenEffects (https://github.com/FortySevenEffects/arduino_midi_library)
 Servo by Arduino (https://github.com/arduino-libraries/Servo)
+
+If I find time after completion, I will put together a build guide.
